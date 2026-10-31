@@ -1,0 +1,6 @@
+{
+  "name": "CONTRA — Clinical Contradiction Intelligence",
+  "description": "AI-powered clinical contradiction intelligence system that challenges diagnostic assumptions by surfacing disconfirming, supporting, and missing evidence across institutional documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
